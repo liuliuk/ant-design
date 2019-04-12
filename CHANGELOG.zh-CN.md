@@ -15,6 +15,27 @@ timeline: true
 
 ---
 
+## 3.16.3
+
+`2019-04-12`
+
+- 🌟 新增 DatePicker 提示当 time 不合法时。[#15920](https://github.com/ant-design/ant-design/pull/15920) 
+- 🌟 新增 TreeSelect showSearch 配置。[#15933](https://github.com/ant-design/ant-design/pull/15933) 
+- 🐞 修复 Menu 箭头在老 IE 版本上不显示的问题。[#15932](https://github.com/ant-design/ant-design/pull/15932)
+- 🐞 修复 Progress 当 status undefined 时的展示。[#15951](https://github.com/ant-design/ant-design/pull/15951)
+- 🐞 修复 Menu 折叠时 Tooltip 的问题。[#15948](https://github.com/ant-design/ant-design/pull/15948)
+- 🐞 修复 Switch 应该被 Label 触发的问题。[#15923](https://github.com/ant-design/ant-design/pull/15923)
+- 🐞 修复 Directory onSelect 信息错误。[#15967](https://github.com/ant-design/ant-design/pull/15967)
+- 🐞 修复 Menu defaultOpenKeys 不工作。[#15970](https://github.com/ant-design/ant-design/pull/15970)
+- 🐞 修复 Nest Table size 为 middle 时的样式。[#16008](https://github.com/ant-design/ant-design/pull/16008)
+- 🐞 修复 Tabs display none 的问题。[#16013](https://github.com/ant-design/ant-design/pull/16013)
+- 🐞 修复 Empty IE 展示的问题。[#16016](https://github.com/ant-design/ant-design/pull/16016)
+- 🐞 修复 Switcher loading icon 和 checkbox 的展示问题。[#15970](https://github.com/ant-design/ant-design/pull/15970)
+- 💄 调整 Menu openAnimation 到 Object。[#15997](https://github.com/ant-design/ant-design/pull/15997)
+- 💄 调整 Table column width 的实现。[#15990](https://github.com/ant-design/ant-design/pull/15990)
+- 🐞 修复 Pagination showLessItems TS 类型。[#15952](https://github.com/ant-design/ant-design/pull/15952)
+- 🐞 修复 Button TS 类型定义。[#15938](https://github.com/ant-design/ant-design/pull/15938)
+
 ## 3.16.2
 
 `2019-04-07`

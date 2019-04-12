@@ -15,6 +15,27 @@ timeline: true
 
 ---
 
+## 3.16.3
+
+`2019-04-12`
+
+- 🌟 Add DatePicker warning when time invalidate. [#15920](https://github.com/ant-design/ant-design/pull/15920) 
+- 🌟 Add TreeSelect showSearch option. [#15933](https://github.com/ant-design/ant-design/pull/15933) 
+- 🐞 Fix Menu arrow show in old version of IE. [#15932](https://github.com/ant-design/ant-design/pull/15932)
+- 🐞 Fix Progress show when status undefined. [#15951](https://github.com/ant-design/ant-design/pull/15951)
+- 🐞 Fix Tooltip show when Menu collapsed. [#15948](https://github.com/ant-design/ant-design/pull/15948)
+- 🐞 Fix Switch trigger by Label problem. [#15923](https://github.com/ant-design/ant-design/pull/15923)
+- 🐞 Fix Directory onSelect info not correct. [#15967](https://github.com/ant-design/ant-design/pull/15967)
+- 🐞 Fix Menu defaultOpenKeys not work. [#15970](https://github.com/ant-design/ant-design/pull/15970)
+- 🐞 Fix Nest Table show when size equal middle. [#16008](https://github.com/ant-design/ant-design/pull/16008)
+- 🐞 Fix Tabs display none to overflow hidden. [#16013](https://github.com/ant-design/ant-design/pull/16013)
+- 🐞 Fix Empty show when in IE. [#16016](https://github.com/ant-design/ant-design/pull/16016)
+- 🐞 Fix Switcher loading icon and checkbox show problems. [#15970](https://github.com/ant-design/ant-design/pull/15970)
+- 💄 Chore Menu openAnimation to Object. [#15997](https://github.com/ant-design/ant-design/pull/15997)
+- 💄 Chore Table column width implement. [#15990](https://github.com/ant-design/ant-design/pull/15990)
+- 🐞 Fix Pagination showLessItems TS def. [#15952](https://github.com/ant-design/ant-design/pull/15952)
+- 🐞 Fix Button TS def. [#15938](https://github.com/ant-design/ant-design/pull/15938)
+
 ## 3.16.2
 
 `2019-04-07`
